@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RijuKim
 - 👀 I’m interested in ... moblie app development, AI, metaverse
-- 🌱 I’m currently learning ... Java, C, Kotlin, Python, HTML5
+- 🌱 I’m currently learning ... Java, Kotlin, Android studio, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gureme1121@gmail.com
 
