@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RijuKim
-- 👀 I’m interested in ... moblie app development, AI, metaverse
-- 🌱 I’m currently learning ... Java, Kotlin, Android studio, Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... App development, AI, Front-end, Data analysis
+- 🌱 I’m currently learning ... Java, Kotlin, Python, React
+- 💞️ I’m looking to collaborate on ... Sookmyung Women's University Soon-Bum Lim's Lab
 - 📫 How to reach me ...gureme1121@gmail.com
 
 <!---
