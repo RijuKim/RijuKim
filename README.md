@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RijuKim
-- 👀 I’m interested in ... App development, AI, Front-end, Data analysis
+- 👀 I’m interested in ... App development, Front-end, AI, Data analysis
 - 🌱 I’m currently learning ... Java, Kotlin, Python, React
 - 💞️ I’m looking to collaborate on ... Sookmyung Women's University Soon-Bum Lim's Lab
 - 📫 How to reach me ...gureme1121@gmail.com
