@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RijuKim
-- 👀 I’m interested in ... App development, Front-end, AI, Data analysis
-- 🌱 I’m currently learning ... Java, Kotlin, Python, React
-- 💞️ I’m looking to collaborate on ... Sookmyung Women's University Soon-Bum Lim's Lab
-- 📫 How to reach me ...gureme1121@gmail.com
+- 👀 I’m interested in DevOps, App development, Front-end, AI, Data analysis
+- 🌱 I’m currently learning -
+- 💞️ I’m looking to collaborate on Sookmyung Women's University Soon-Bum Lim's Lab
+- 📫 How to reach me gureme1121@gmail.com
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
