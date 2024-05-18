@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @RijuKim
-- 👀 I’m interested in DevOps, App development, Front-end, AI, Data analysis
-- 🌱 I’m currently learning -
-- 💞️ I’m looking to collaborate on Sookmyung Women's University Soon-Bum Lim's Lab
-- 📫 How to reach me gureme1121@gmail.com
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0489B1&height=80&width=1&section=header" /></div>
+<div align=center><h2>🫡 Information</h2>
+<a href="https://www.notion.so/Portfolio-f4cba5b11a7049c78f4078a96b5c8acd?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EB%A6%AC%EC%A3%BC-%EA%B9%80-285688247"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</div>
+<div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -26,3 +26,8 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
+<div align=center>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RijuKim&theme=tokyonight-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RijuKim)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0489B1&height=80&width=1&section=footer" /></div>
