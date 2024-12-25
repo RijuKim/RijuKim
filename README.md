@@ -1,6 +1,7 @@
 <div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=0489B1&height=80&width=1&section=header"/></div>
   <div align=center>
-🙋‍♀️ Hi, I'm Riju Kim, a Technical Architect at KT NexR.<br>
+🙋‍♀️ Hi, I'm Rijoo Kim, a AI&Data Engineer in KT. <br>
+I have been Technical Architect at KT NexR for 1 year.<br>
 🌳I'm currently developing an app called Tickle Tickle as a side project.
 </div>
 <div align=center><h2>🫡 Information</h2>
